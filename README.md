@@ -3,9 +3,9 @@
 Este projeto é a criação de um microserviço reponsável por receber requisições e gerar mensagens para os demais microsserviços, que são os consumidores da mensagem.
 Dividido em 3 projetos:
 
-1.librebbitmq = contém os nomes das constantes e DTOs
-2.rabbitmq = Cria as filas e envia as mensagens ao servidor RabbitMQ
-3.estoque-consumer = consome as mensagens (processa)
+1. librebbitmq = contém os nomes das constantes e DTOs
+2. rabbitmq = Cria as filas e envia as mensagens ao servidor RabbitMQ
+3. estoque-consumer = consome as mensagens (processa)
 
 ### Spring
 
@@ -26,4 +26,4 @@ Dividido em 3 projetos:
 ![Projeto](https://github.com/thomaserick/rabbitMQ/blob/main/img/rabbitmq.png)
 
 
-Curso de https://github.com/DaniloCaneschi
+Curso do https://github.com/DaniloCaneschi
