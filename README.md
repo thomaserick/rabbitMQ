@@ -21,3 +21,9 @@ Dividido em 3 projetos:
   - Calcular ~ (T.entrega + T.volta) / T.processamento
 - ACK
   - Confirmação de leitura da mensagem
+
+
+![Projeto](https://github.com/thomaserick/rabbitMQ/blob/main/img/rabbitmq.png)
+
+
+Curso de https://github.com/DaniloCaneschi
