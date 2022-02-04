@@ -1,6 +1,7 @@
 # Microserviço em Java Spring Boot com RabbitMQ
 
 Este projeto é a criação de um microserviço reponsável por receber requisições e gerar mensagens para os demais microsserviços, que são os consumidores da mensagem.
+
 Dividido em 3 projetos:
 
 1. librebbitmq = contém os nomes das constantes e DTOs
